@@ -1,0 +1,25 @@
+{
+ "trajanje_u_danima":10,
+ "ispiti":[
+ {
+ "sifra":"13Е112ОО1",
+ "prijavljeni":289,
+ "racunari":1,
+ "odseci":[
+ "ИР",
+ "ОС",
+ "ОТ",
+ "ОФ",
+ "ОГ"
+ ]
+ },
+ {
+ "sifra":"13С112ОО1",
+ "prijavljeni":145,
+ "racunari":1,
+ "odseci":[
+ "СИ"
+ ]
+ }
+ ]
+}
